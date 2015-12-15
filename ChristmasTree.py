@@ -1,7 +1,7 @@
 print("As ftiaksoume ena x-mass tree. Dwse diastaseis dentrou")
 ypsos_dentrou=input("Dwse to ypsos tou dentrou:")
-platos_kormou=input("Dwse to platos tou kormou tou dentrou: ")
-ypsos_kormou=input("Dwse to ypsos tou kormou tou dentrou: ")
+ypsos_kormou=input("Dwse to ypsos tou kormou tou dentrou:")
+platos_kormou=input("Dwse to platos tou kormou tou dentrou:")
 n=ypsos_dentrou
 x=ypsos_kormou 
 z=platos_kormou
